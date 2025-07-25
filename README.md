@@ -31,7 +31,9 @@ Board Documentation: https://icdayroi.com/board-da-chuc-nang-mo-rong-dht11-lm35-
 - Adafruit_MQTT
   # How to dowload lib:
   Open Arduino IDE > goto Sketch > Include Library > Library Manager > Type (DHT by AdafruitIO, MQTT) -> lick install to finish setup.
-## How to usecode
 
+## How to usecode
 clone source Code: dowload file.ino
-coppy and pass to âr
+coppy and pass to Arduino IDE > Verify > Upload
+
+
